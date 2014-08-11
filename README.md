@@ -1,4 +1,4 @@
-# YYID
+# YYID [![[travis]](https://travis-ci.org/janlelis/yyid.ex.png)](https://travis-ci.org/janlelis/yyid.ex)
 
 Generates random tokens that look like [type 4 UUIDs](https://en.wikipedia.org/wiki/Universally_unique_identifier#Version_4_.28random.29): `xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`
 
