@@ -4,7 +4,7 @@ defmodule YYID.Mixfile do
   def project do
     [app: :yyid,
      version: "0.1.0",
-     elixir: "~> 0.14.3",
+     elixir: "~> 0.14",
      deps: [],
      package: package,
      description: description]
